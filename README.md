@@ -1,5 +1,4 @@
 # Godot Docs
-
 An attempt to transform the original ``classes.xml`` file in **godot** engine into human-readable forma using XSLT and other methods.
 
 The main goals are:
