@@ -9,4 +9,4 @@ The main goals are:
 
 ## Available Docs
 
-View [classes_styled.xml](https://thumbline.github.io/godot_doc/doc/base/classes_styled.xml).
+View [classes_styled.xml](https://zzwx.github.io/godot_doc/doc/base/classes_styled.xml).
